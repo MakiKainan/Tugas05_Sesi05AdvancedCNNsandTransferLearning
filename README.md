@@ -2,7 +2,7 @@
 
 **Nama:** Kevin Sukias K  
 **NIM:** 2802526416  
-**Mata kuliah:** Deep Learning, Sesi 05 (Advanced CNNs and Transfer Learning)
+**Mata kuliah:** Deep Learning
 
 Studi perbandingan strategi training ResNet-18 pada Oxford-IIIT Pet (subset 10 kelas, ±2.000 image): from scratch, feature extraction, progressive fine-tuning, uji kontrol data augmentation, dan arsitektur pembanding (EfficientNet-B0, MobileNetV3-Small).
 
