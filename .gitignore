@@ -1,0 +1,17 @@
+# dataset (diunduh otomatis oleh torchvision, ±800 MB)
+data/
+
+# checkpoint model (besar, tidak wajib)
+outputs/checkpoints/
+*.pt
+*.pth
+
+# arsip & file sementara
+*.zip
+_export/
+.ipynb_checkpoints/
+__pycache__/
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini

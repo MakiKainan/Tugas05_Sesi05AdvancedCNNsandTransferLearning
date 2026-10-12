@@ -1,0 +1,300 @@
+path,true,pred,confidence,correct
+data/oxford-iiit-pet/images/Russian_Blue_43.jpg,Russian Blue,Bengal,0.5027497,False
+data/oxford-iiit-pet/images/boxer_74.jpg,Boxer,Beagle,0.41709808,False
+data/oxford-iiit-pet/images/beagle_58.jpg,Beagle,Shiba Inu,0.25302076,False
+data/oxford-iiit-pet/images/boxer_113.jpg,Boxer,Beagle,0.73169863,False
+data/oxford-iiit-pet/images/shiba_inu_51.jpg,Shiba Inu,Beagle,0.7474489,False
+data/oxford-iiit-pet/images/pug_35.jpg,Pug,Boxer,0.4212415,False
+data/oxford-iiit-pet/images/Bengal_119.jpg,Bengal,Bengal,0.4872053,True
+data/oxford-iiit-pet/images/Persian_100.jpg,Persian,Persian,0.6507517,True
+data/oxford-iiit-pet/images/Egyptian_Mau_186.jpg,Egyptian Mau,Egyptian Mau,0.5307735,True
+data/oxford-iiit-pet/images/boxer_114.jpg,Boxer,Beagle,0.25609547,False
+data/oxford-iiit-pet/images/shiba_inu_140.jpg,Shiba Inu,Shiba Inu,0.30010056,True
+data/oxford-iiit-pet/images/boxer_40.jpg,Boxer,British Shorthair,0.29531145,False
+data/oxford-iiit-pet/images/pug_43.jpg,Pug,Pug,0.34483916,True
+data/oxford-iiit-pet/images/pug_99.jpg,Pug,Beagle,0.5278184,False
+data/oxford-iiit-pet/images/beagle_89.jpg,Beagle,Bengal,0.52019316,False
+data/oxford-iiit-pet/images/shiba_inu_156.jpg,Shiba Inu,Boxer,0.31502637,False
+data/oxford-iiit-pet/images/Bengal_72.jpg,Bengal,Bengal,0.83218783,True
+data/oxford-iiit-pet/images/British_Shorthair_59.jpg,British Shorthair,Bengal,0.9737907,False
+data/oxford-iiit-pet/images/Persian_97.jpg,Persian,Persian,0.94616574,True
+data/oxford-iiit-pet/images/Russian_Blue_97.jpg,Russian Blue,Persian,0.55366933,False
+data/oxford-iiit-pet/images/Egyptian_Mau_204.jpg,Egyptian Mau,Persian,0.6573749,False
+data/oxford-iiit-pet/images/shiba_inu_11.jpg,Shiba Inu,Persian,0.4034316,False
+data/oxford-iiit-pet/images/Russian_Blue_81.jpg,Russian Blue,British Shorthair,0.82325864,False
+data/oxford-iiit-pet/images/British_Shorthair_209.jpg,British Shorthair,Boxer,0.22475588,False
+data/oxford-iiit-pet/images/Bengal_38.jpg,Bengal,Bengal,0.4584083,True
+data/oxford-iiit-pet/images/Bengal_182.jpg,Bengal,Bengal,0.89544475,True
+data/oxford-iiit-pet/images/shiba_inu_5.jpg,Shiba Inu,Persian,0.7199937,False
+data/oxford-iiit-pet/images/beagle_88.jpg,Beagle,Beagle,0.35170627,True
+data/oxford-iiit-pet/images/pug_56.jpg,Pug,Beagle,0.6063425,False
+data/oxford-iiit-pet/images/Persian_54.jpg,Persian,Persian,0.7433331,True
+data/oxford-iiit-pet/images/Russian_Blue_83.jpg,Russian Blue,Russian Blue,0.30496413,True
+data/oxford-iiit-pet/images/basset_hound_126.jpg,Basset Hound,Beagle,0.68583775,False
+data/oxford-iiit-pet/images/pug_163.jpg,Pug,Bengal,0.960204,False
+data/oxford-iiit-pet/images/shiba_inu_25.jpg,Shiba Inu,Persian,0.42735174,False
+data/oxford-iiit-pet/images/pug_111.jpg,Pug,Pug,0.92632496,True
+data/oxford-iiit-pet/images/Bengal_191.jpg,Bengal,Bengal,0.97128636,True
+data/oxford-iiit-pet/images/Bengal_86.jpg,Bengal,Bengal,0.99618846,True
+data/oxford-iiit-pet/images/Russian_Blue_8.jpg,Russian Blue,Persian,0.55322796,False
+data/oxford-iiit-pet/images/British_Shorthair_45.jpg,British Shorthair,Russian Blue,0.5447015,False
+data/oxford-iiit-pet/images/basset_hound_30.jpg,Basset Hound,Beagle,0.5235777,False
+data/oxford-iiit-pet/images/Russian_Blue_215.jpg,Russian Blue,Persian,0.22094063,False
+data/oxford-iiit-pet/images/shiba_inu_38.jpg,Shiba Inu,Persian,0.72094244,False
+data/oxford-iiit-pet/images/boxer_78.jpg,Boxer,Boxer,0.25836316,True
+data/oxford-iiit-pet/images/Russian_Blue_95.jpg,Russian Blue,Russian Blue,0.6213457,True
+data/oxford-iiit-pet/images/Egyptian_Mau_221.jpg,Egyptian Mau,Beagle,0.36443946,False
+data/oxford-iiit-pet/images/pug_12.jpg,Pug,Beagle,0.5599841,False
+data/oxford-iiit-pet/images/Egyptian_Mau_160.jpg,Egyptian Mau,Egyptian Mau,0.78318304,True
+data/oxford-iiit-pet/images/boxer_39.jpg,Boxer,Beagle,0.3541944,False
+data/oxford-iiit-pet/images/British_Shorthair_272.jpg,British Shorthair,British Shorthair,0.28207427,True
+data/oxford-iiit-pet/images/Russian_Blue_41.jpg,Russian Blue,Bengal,0.3788924,False
+data/oxford-iiit-pet/images/beagle_41.jpg,Beagle,Beagle,0.54459447,True
+data/oxford-iiit-pet/images/Persian_268.jpg,Persian,Persian,0.8616814,True
+data/oxford-iiit-pet/images/basset_hound_65.jpg,Basset Hound,Beagle,0.41868538,False
+data/oxford-iiit-pet/images/pug_24.jpg,Pug,Boxer,0.54767805,False
+data/oxford-iiit-pet/images/beagle_51.jpg,Beagle,Beagle,0.64396954,True
+data/oxford-iiit-pet/images/Egyptian_Mau_81.jpg,Egyptian Mau,Persian,0.37309134,False
+data/oxford-iiit-pet/images/basset_hound_36.jpg,Basset Hound,Basset Hound,0.5138818,True
+data/oxford-iiit-pet/images/boxer_116.jpg,Boxer,Boxer,0.2857193,True
+data/oxford-iiit-pet/images/Russian_Blue_244.jpg,Russian Blue,Russian Blue,0.6382727,True
+data/oxford-iiit-pet/images/Bengal_180.jpg,Bengal,Bengal,0.9981142,True
+data/oxford-iiit-pet/images/beagle_6.jpg,Beagle,Beagle,0.63850206,True
+data/oxford-iiit-pet/images/British_Shorthair_127.jpg,British Shorthair,Bengal,0.29995638,False
+data/oxford-iiit-pet/images/beagle_179.jpg,Beagle,Beagle,0.6583484,True
+data/oxford-iiit-pet/images/British_Shorthair_204.jpg,British Shorthair,Russian Blue,0.486274,False
+data/oxford-iiit-pet/images/British_Shorthair_117.jpg,British Shorthair,Basset Hound,0.24163073,False
+data/oxford-iiit-pet/images/Egyptian_Mau_70.jpg,Egyptian Mau,Bengal,0.5052009,False
+data/oxford-iiit-pet/images/Persian_213.jpg,Persian,Persian,0.7638804,True
+data/oxford-iiit-pet/images/boxer_165.jpg,Boxer,Persian,0.8778979,False
+data/oxford-iiit-pet/images/Egyptian_Mau_2.jpg,Egyptian Mau,Bengal,0.5514232,False
+data/oxford-iiit-pet/images/basset_hound_18.jpg,Basset Hound,Beagle,0.5284722,False
+data/oxford-iiit-pet/images/pug_201.jpg,Pug,Pug,0.5569123,True
+data/oxford-iiit-pet/images/boxer_187.jpg,Boxer,Beagle,0.42285305,False
+data/oxford-iiit-pet/images/Russian_Blue_149.jpg,Russian Blue,Russian Blue,0.52567255,True
+data/oxford-iiit-pet/images/Russian_Blue_159.jpg,Russian Blue,Russian Blue,0.29573637,True
+data/oxford-iiit-pet/images/Russian_Blue_221.jpg,Russian Blue,Beagle,0.29073504,False
+data/oxford-iiit-pet/images/basset_hound_55.jpg,Basset Hound,Beagle,0.6079061,False
+data/oxford-iiit-pet/images/beagle_130.jpg,Beagle,Bengal,0.33417702,False
+data/oxford-iiit-pet/images/boxer_111.jpg,Boxer,Bengal,0.68163323,False
+data/oxford-iiit-pet/images/Bengal_11.jpg,Bengal,Bengal,0.9967745,True
+data/oxford-iiit-pet/images/Egyptian_Mau_30.jpg,Egyptian Mau,Russian Blue,0.30324486,False
+data/oxford-iiit-pet/images/Russian_Blue_29.jpg,Russian Blue,Russian Blue,0.6366067,True
+data/oxford-iiit-pet/images/Persian_83.jpg,Persian,Bengal,0.60885626,False
+data/oxford-iiit-pet/images/Persian_106.jpg,Persian,Persian,0.91145986,True
+data/oxford-iiit-pet/images/pug_93.jpg,Pug,Persian,0.85589594,False
+data/oxford-iiit-pet/images/Russian_Blue_202.jpg,Russian Blue,British Shorthair,0.41862395,False
+data/oxford-iiit-pet/images/Russian_Blue_205.jpg,Russian Blue,Russian Blue,0.59493035,True
+data/oxford-iiit-pet/images/beagle_113.jpg,Beagle,Persian,0.67635775,False
+data/oxford-iiit-pet/images/shiba_inu_182.jpg,Shiba Inu,Shiba Inu,0.5700393,True
+data/oxford-iiit-pet/images/basset_hound_97.jpg,Basset Hound,Bengal,0.51621497,False
+data/oxford-iiit-pet/images/basset_hound_51.jpg,Basset Hound,Beagle,0.47568986,False
+data/oxford-iiit-pet/images/Egyptian_Mau_5.jpg,Egyptian Mau,Bengal,0.883481,False
+data/oxford-iiit-pet/images/boxer_141.jpg,Boxer,Beagle,0.5237264,False
+data/oxford-iiit-pet/images/basset_hound_68.jpg,Basset Hound,Beagle,0.6778125,False
+data/oxford-iiit-pet/images/pug_112.jpg,Pug,Shiba Inu,0.25145426,False
+data/oxford-iiit-pet/images/Persian_98.jpg,Persian,Persian,0.9075392,True
+data/oxford-iiit-pet/images/Bengal_37.jpg,Bengal,Bengal,0.98686594,True
+data/oxford-iiit-pet/images/Egyptian_Mau_49.jpg,Egyptian Mau,Egyptian Mau,0.3586619,True
+data/oxford-iiit-pet/images/beagle_59.jpg,Beagle,Beagle,0.41514084,True
+data/oxford-iiit-pet/images/Persian_140.jpg,Persian,Persian,0.7360025,True
+data/oxford-iiit-pet/images/Persian_104.jpg,Persian,Persian,0.8906164,True
+data/oxford-iiit-pet/images/basset_hound_151.jpg,Basset Hound,Basset Hound,0.6506517,True
+data/oxford-iiit-pet/images/shiba_inu_206.jpg,Shiba Inu,Shiba Inu,0.45298398,True
+data/oxford-iiit-pet/images/Bengal_76.jpg,Bengal,Bengal,0.9989567,True
+data/oxford-iiit-pet/images/Bengal_197.jpg,Bengal,Bengal,0.9963188,True
+data/oxford-iiit-pet/images/beagle_60.jpg,Beagle,Beagle,0.74673134,True
+data/oxford-iiit-pet/images/Egyptian_Mau_151.jpg,Egyptian Mau,Egyptian Mau,0.8348053,True
+data/oxford-iiit-pet/images/Egyptian_Mau_56.jpg,Egyptian Mau,Bengal,0.9442456,False
+data/oxford-iiit-pet/images/British_Shorthair_55.jpg,British Shorthair,British Shorthair,0.3761521,True
+data/oxford-iiit-pet/images/shiba_inu_46.jpg,Shiba Inu,Shiba Inu,0.4541845,True
+data/oxford-iiit-pet/images/boxer_2.jpg,Boxer,Beagle,0.3550638,False
+data/oxford-iiit-pet/images/boxer_63.jpg,Boxer,Shiba Inu,0.37295398,False
+data/oxford-iiit-pet/images/pug_130.jpg,Pug,Beagle,0.24098255,False
+data/oxford-iiit-pet/images/basset_hound_17.jpg,Basset Hound,Beagle,0.50430447,False
+data/oxford-iiit-pet/images/Persian_16.jpg,Persian,Persian,0.57960874,True
+data/oxford-iiit-pet/images/Persian_76.jpg,Persian,Persian,0.80731696,True
+data/oxford-iiit-pet/images/British_Shorthair_34.jpg,British Shorthair,Russian Blue,0.44947684,False
+data/oxford-iiit-pet/images/beagle_66.jpg,Beagle,Beagle,0.44368243,True
+data/oxford-iiit-pet/images/basset_hound_129.jpg,Basset Hound,Basset Hound,0.5348358,True
+data/oxford-iiit-pet/images/pug_59.jpg,Pug,Pug,0.27799,True
+data/oxford-iiit-pet/images/shiba_inu_154.jpg,Shiba Inu,Beagle,0.3662858,False
+data/oxford-iiit-pet/images/pug_196.jpg,Pug,Beagle,0.3634348,False
+data/oxford-iiit-pet/images/basset_hound_141.jpg,Basset Hound,Beagle,0.3472497,False
+data/oxford-iiit-pet/images/Egyptian_Mau_61.jpg,Egyptian Mau,Persian,0.48094627,False
+data/oxford-iiit-pet/images/Bengal_154.jpg,Bengal,Shiba Inu,0.30686417,False
+data/oxford-iiit-pet/images/basset_hound_133.jpg,Basset Hound,Boxer,0.37149817,False
+data/oxford-iiit-pet/images/basset_hound_52.jpg,Basset Hound,Basset Hound,0.2517736,True
+data/oxford-iiit-pet/images/boxer_27.jpg,Boxer,Boxer,0.43004596,True
+data/oxford-iiit-pet/images/Egyptian_Mau_35.jpg,Egyptian Mau,Bengal,0.766003,False
+data/oxford-iiit-pet/images/basset_hound_101.jpg,Basset Hound,Beagle,0.32834038,False
+data/oxford-iiit-pet/images/Egyptian_Mau_170.jpg,Egyptian Mau,Bengal,0.9992105,False
+data/oxford-iiit-pet/images/shiba_inu_33.jpg,Shiba Inu,Persian,0.31754035,False
+data/oxford-iiit-pet/images/Bengal_101.jpg,Bengal,Bengal,0.9992015,True
+data/oxford-iiit-pet/images/basset_hound_104.jpg,Basset Hound,Beagle,0.7658039,False
+data/oxford-iiit-pet/images/shiba_inu_19.jpg,Shiba Inu,Shiba Inu,0.24103603,True
+data/oxford-iiit-pet/images/basset_hound_107.jpg,Basset Hound,Beagle,0.59583277,False
+data/oxford-iiit-pet/images/Persian_87.jpg,Persian,Persian,0.9100961,True
+data/oxford-iiit-pet/images/basset_hound_160.jpg,Basset Hound,Basset Hound,0.64065194,True
+data/oxford-iiit-pet/images/beagle_38.jpg,Beagle,Beagle,0.5909632,True
+data/oxford-iiit-pet/images/Egyptian_Mau_141.jpg,Egyptian Mau,Bengal,0.8554015,False
+data/oxford-iiit-pet/images/basset_hound_165.jpg,Basset Hound,British Shorthair,0.3149747,False
+data/oxford-iiit-pet/images/Bengal_29.jpg,Bengal,Bengal,0.9961981,True
+data/oxford-iiit-pet/images/Russian_Blue_50.jpg,Russian Blue,Persian,0.40734318,False
+data/oxford-iiit-pet/images/Persian_200.jpg,Persian,Persian,0.82090586,True
+data/oxford-iiit-pet/images/Egyptian_Mau_102.jpg,Egyptian Mau,Bengal,0.7902357,False
+data/oxford-iiit-pet/images/beagle_99.jpg,Beagle,Russian Blue,0.4289317,False
+data/oxford-iiit-pet/images/Russian_Blue_34.jpg,Russian Blue,Boxer,0.22506557,False
+data/oxford-iiit-pet/images/Egyptian_Mau_201.jpg,Egyptian Mau,Bengal,0.88382995,False
+data/oxford-iiit-pet/images/beagle_48.jpg,Beagle,Beagle,0.4823555,True
+data/oxford-iiit-pet/images/boxer_156.jpg,Boxer,Basset Hound,0.3275007,False
+data/oxford-iiit-pet/images/shiba_inu_37.jpg,Shiba Inu,Shiba Inu,0.45633018,True
+data/oxford-iiit-pet/images/beagle_170.jpg,Beagle,Persian,0.7216364,False
+data/oxford-iiit-pet/images/shiba_inu_40.jpg,Shiba Inu,Shiba Inu,0.46477357,True
+data/oxford-iiit-pet/images/British_Shorthair_41.jpg,British Shorthair,Russian Blue,0.37348533,False
+data/oxford-iiit-pet/images/Persian_152.jpg,Persian,Persian,0.8482239,True
+data/oxford-iiit-pet/images/basset_hound_174.jpg,Basset Hound,Beagle,0.38349137,False
+data/oxford-iiit-pet/images/shiba_inu_131.jpg,Shiba Inu,Shiba Inu,0.7499495,True
+data/oxford-iiit-pet/images/basset_hound_81.jpg,Basset Hound,Beagle,0.54375714,False
+data/oxford-iiit-pet/images/Persian_47.jpg,Persian,British Shorthair,0.44958553,False
+data/oxford-iiit-pet/images/shiba_inu_28.jpg,Shiba Inu,Persian,0.918431,False
+data/oxford-iiit-pet/images/basset_hound_40.jpg,Basset Hound,Beagle,0.6526835,False
+data/oxford-iiit-pet/images/beagle_57.jpg,Beagle,Beagle,0.30999297,True
+data/oxford-iiit-pet/images/Bengal_184.jpg,Bengal,Pug,0.50899106,False
+data/oxford-iiit-pet/images/beagle_122.jpg,Beagle,Beagle,0.32807383,True
+data/oxford-iiit-pet/images/Bengal_112.jpg,Bengal,Bengal,0.9941848,True
+data/oxford-iiit-pet/images/Russian_Blue_66.jpg,Russian Blue,British Shorthair,0.39381358,False
+data/oxford-iiit-pet/images/Bengal_94.jpg,Bengal,Bengal,0.99663794,True
+data/oxford-iiit-pet/images/British_Shorthair_109.jpg,British Shorthair,British Shorthair,0.5262482,True
+data/oxford-iiit-pet/images/Russian_Blue_262.jpg,Russian Blue,British Shorthair,0.40004656,False
+data/oxford-iiit-pet/images/boxer_106.jpg,Boxer,Boxer,0.31526414,True
+data/oxford-iiit-pet/images/British_Shorthair_201.jpg,British Shorthair,Russian Blue,0.4840548,False
+data/oxford-iiit-pet/images/shiba_inu_133.jpg,Shiba Inu,Shiba Inu,0.43100262,True
+data/oxford-iiit-pet/images/boxer_37.jpg,Boxer,Beagle,0.5739339,False
+data/oxford-iiit-pet/images/pug_154.jpg,Pug,Pug,0.24284539,True
+data/oxford-iiit-pet/images/boxer_4.jpg,Boxer,Beagle,0.69606185,False
+data/oxford-iiit-pet/images/Egyptian_Mau_101.jpg,Egyptian Mau,Bengal,0.32712144,False
+data/oxford-iiit-pet/images/British_Shorthair_269.jpg,British Shorthair,British Shorthair,0.5370998,True
+data/oxford-iiit-pet/images/beagle_94.jpg,Beagle,British Shorthair,0.44740993,False
+data/oxford-iiit-pet/images/shiba_inu_192.jpg,Shiba Inu,Beagle,0.30520633,False
+data/oxford-iiit-pet/images/Persian_261.jpg,Persian,Persian,0.8803909,True
+data/oxford-iiit-pet/images/Russian_Blue_98.jpg,Russian Blue,Russian Blue,0.46052104,True
+data/oxford-iiit-pet/images/British_Shorthair_65.jpg,British Shorthair,Pug,0.412328,False
+data/oxford-iiit-pet/images/basset_hound_92.jpg,Basset Hound,Basset Hound,0.37390393,True
+data/oxford-iiit-pet/images/pug_30.jpg,Pug,Russian Blue,0.20624001,False
+data/oxford-iiit-pet/images/British_Shorthair_134.jpg,British Shorthair,British Shorthair,0.53606004,True
+data/oxford-iiit-pet/images/Egyptian_Mau_52.jpg,Egyptian Mau,British Shorthair,0.21052535,False
+data/oxford-iiit-pet/images/pug_173.jpg,Pug,Beagle,0.42895135,False
+data/oxford-iiit-pet/images/pug_53.jpg,Pug,Persian,0.56117463,False
+data/oxford-iiit-pet/images/beagle_64.jpg,Beagle,Beagle,0.50969964,True
+data/oxford-iiit-pet/images/boxer_22.jpg,Boxer,Persian,0.7917133,False
+data/oxford-iiit-pet/images/pug_191.jpg,Pug,Beagle,0.40819046,False
+data/oxford-iiit-pet/images/Persian_272.jpg,Persian,Persian,0.4850054,True
+data/oxford-iiit-pet/images/Bengal_8.jpg,Bengal,Bengal,0.25588983,True
+data/oxford-iiit-pet/images/Bengal_195.jpg,Bengal,Bengal,0.8532512,True
+data/oxford-iiit-pet/images/British_Shorthair_68.jpg,British Shorthair,Persian,0.37234652,False
+data/oxford-iiit-pet/images/shiba_inu_110.jpg,Shiba Inu,Beagle,0.5184453,False
+data/oxford-iiit-pet/images/British_Shorthair_96.jpg,British Shorthair,Pug,0.32228976,False
+data/oxford-iiit-pet/images/British_Shorthair_196.jpg,British Shorthair,British Shorthair,0.2917557,True
+data/oxford-iiit-pet/images/British_Shorthair_82.jpg,British Shorthair,Russian Blue,0.52469677,False
+data/oxford-iiit-pet/images/basset_hound_149.jpg,Basset Hound,Beagle,0.5347676,False
+data/oxford-iiit-pet/images/beagle_184.jpg,Beagle,Bengal,0.60394853,False
+data/oxford-iiit-pet/images/shiba_inu_75.jpg,Shiba Inu,Persian,0.8994929,False
+data/oxford-iiit-pet/images/Persian_5.jpg,Persian,Persian,0.7028711,True
+data/oxford-iiit-pet/images/beagle_169.jpg,Beagle,Shiba Inu,0.20530273,False
+data/oxford-iiit-pet/images/Persian_196.jpg,Persian,Persian,0.693438,True
+data/oxford-iiit-pet/images/beagle_2.jpg,Beagle,Beagle,0.663882,True
+data/oxford-iiit-pet/images/Bengal_148.jpg,Bengal,Bengal,0.372131,True
+data/oxford-iiit-pet/images/Bengal_56.jpg,Bengal,Bengal,0.9862809,True
+data/oxford-iiit-pet/images/beagle_191.jpg,Beagle,Bengal,0.7328292,False
+data/oxford-iiit-pet/images/pug_203.jpg,Pug,Beagle,0.6222248,False
+data/oxford-iiit-pet/images/beagle_50.jpg,Beagle,Beagle,0.38435087,True
+data/oxford-iiit-pet/images/Bengal_108.jpg,Bengal,Bengal,0.990008,True
+data/oxford-iiit-pet/images/British_Shorthair_51.jpg,British Shorthair,Persian,0.58075446,False
+data/oxford-iiit-pet/images/Russian_Blue_236.jpg,Russian Blue,British Shorthair,0.5271885,False
+data/oxford-iiit-pet/images/Persian_267.jpg,Persian,Persian,0.8229578,True
+data/oxford-iiit-pet/images/shiba_inu_50.jpg,Shiba Inu,Persian,0.7919546,False
+data/oxford-iiit-pet/images/Egyptian_Mau_134.jpg,Egyptian Mau,Egyptian Mau,0.69913924,True
+data/oxford-iiit-pet/images/Egyptian_Mau_63.jpg,Egyptian Mau,Bengal,0.41044158,False
+data/oxford-iiit-pet/images/British_Shorthair_168.jpg,British Shorthair,Russian Blue,0.6220779,False
+data/oxford-iiit-pet/images/Persian_239.jpg,Persian,British Shorthair,0.42577815,False
+data/oxford-iiit-pet/images/Russian_Blue_100.jpg,Russian Blue,British Shorthair,0.5257517,False
+data/oxford-iiit-pet/images/Bengal_152.jpg,Bengal,Pug,0.6684123,False
+data/oxford-iiit-pet/images/Egyptian_Mau_121.jpg,Egyptian Mau,Persian,0.5582315,False
+data/oxford-iiit-pet/images/Persian_11.jpg,Persian,Persian,0.5020619,True
+data/oxford-iiit-pet/images/pug_51.jpg,Pug,Persian,0.78390384,False
+data/oxford-iiit-pet/images/Bengal_166.jpg,Bengal,Russian Blue,0.42582282,False
+data/oxford-iiit-pet/images/boxer_115.jpg,Boxer,Beagle,0.53910494,False
+data/oxford-iiit-pet/images/pug_9.jpg,Pug,Shiba Inu,0.21553774,False
+data/oxford-iiit-pet/images/Bengal_4.jpg,Bengal,Bengal,0.9883398,True
+data/oxford-iiit-pet/images/shiba_inu_137.jpg,Shiba Inu,Russian Blue,0.5843191,False
+data/oxford-iiit-pet/images/pug_156.jpg,Pug,Pug,0.8990906,True
+data/oxford-iiit-pet/images/beagle_40.jpg,Beagle,Beagle,0.42821953,True
+data/oxford-iiit-pet/images/pug_146.jpg,Pug,Bengal,0.4889676,False
+data/oxford-iiit-pet/images/Persian_19.jpg,Persian,Persian,0.6847528,True
+data/oxford-iiit-pet/images/Egyptian_Mau_99.jpg,Egyptian Mau,Persian,0.7347821,False
+data/oxford-iiit-pet/images/beagle_82.jpg,Beagle,Beagle,0.7141395,True
+data/oxford-iiit-pet/images/pug_66.jpg,Pug,Pug,0.967653,True
+data/oxford-iiit-pet/images/Bengal_64.jpg,Bengal,Bengal,0.93454313,True
+data/oxford-iiit-pet/images/Persian_188.jpg,Persian,Persian,0.3646,True
+data/oxford-iiit-pet/images/basset_hound_42.jpg,Basset Hound,Persian,0.46413597,False
+data/oxford-iiit-pet/images/pug_103.jpg,Pug,Boxer,0.5123178,False
+data/oxford-iiit-pet/images/basset_hound_49.jpg,Basset Hound,Beagle,0.40838355,False
+data/oxford-iiit-pet/images/basset_hound_8.jpg,Basset Hound,Beagle,0.41931206,False
+data/oxford-iiit-pet/images/British_Shorthair_175.jpg,British Shorthair,Shiba Inu,0.28144664,False
+data/oxford-iiit-pet/images/beagle_10.jpg,Beagle,Basset Hound,0.51636255,False
+data/oxford-iiit-pet/images/boxer_133.jpg,Boxer,Beagle,0.74386704,False
+data/oxford-iiit-pet/images/Russian_Blue_119.jpg,Russian Blue,Russian Blue,0.58722705,True
+data/oxford-iiit-pet/images/Russian_Blue_36.jpg,Russian Blue,Pug,0.27779764,False
+data/oxford-iiit-pet/images/Russian_Blue_146.jpg,Russian Blue,British Shorthair,0.65183175,False
+data/oxford-iiit-pet/images/Persian_180.jpg,Persian,Persian,0.95417786,True
+data/oxford-iiit-pet/images/British_Shorthair_18.jpg,British Shorthair,Boxer,0.20584777,False
+data/oxford-iiit-pet/images/pug_26.jpg,Pug,Bengal,0.80572915,False
+data/oxford-iiit-pet/images/British_Shorthair_210.jpg,British Shorthair,British Shorthair,0.3807262,True
+data/oxford-iiit-pet/images/boxer_140.jpg,Boxer,Beagle,0.4938958,False
+data/oxford-iiit-pet/images/shiba_inu_103.jpg,Shiba Inu,Beagle,0.46562988,False
+data/oxford-iiit-pet/images/British_Shorthair_274.jpg,British Shorthair,Persian,0.41640523,False
+data/oxford-iiit-pet/images/shiba_inu_122.jpg,Shiba Inu,Shiba Inu,0.3683825,True
+data/oxford-iiit-pet/images/boxer_57.jpg,Boxer,Beagle,0.28082412,False
+data/oxford-iiit-pet/images/Egyptian_Mau_136.jpg,Egyptian Mau,Bengal,0.31075478,False
+data/oxford-iiit-pet/images/shiba_inu_203.jpg,Shiba Inu,Shiba Inu,0.6889513,True
+data/oxford-iiit-pet/images/Egyptian_Mau_87.jpg,Egyptian Mau,Bengal,0.9254733,False
+data/oxford-iiit-pet/images/Egyptian_Mau_68.jpg,Egyptian Mau,Bengal,0.9954899,False
+data/oxford-iiit-pet/images/pug_63.jpg,Pug,Beagle,0.5467498,False
+data/oxford-iiit-pet/images/pug_45.jpg,Pug,Beagle,0.49085766,False
+data/oxford-iiit-pet/images/Persian_129.jpg,Persian,Persian,0.90488803,True
+data/oxford-iiit-pet/images/beagle_69.jpg,Beagle,Beagle,0.7177034,True
+data/oxford-iiit-pet/images/Russian_Blue_68.jpg,Russian Blue,Russian Blue,0.5451242,True
+data/oxford-iiit-pet/images/Bengal_85.jpg,Bengal,Bengal,0.9193082,True
+data/oxford-iiit-pet/images/Russian_Blue_194.jpg,Russian Blue,Russian Blue,0.3420664,True
+data/oxford-iiit-pet/images/British_Shorthair_270.jpg,British Shorthair,British Shorthair,0.38717997,True
+data/oxford-iiit-pet/images/basset_hound_183.jpg,Basset Hound,Beagle,0.7243188,False
+data/oxford-iiit-pet/images/beagle_164.jpg,Beagle,Persian,0.26639506,False
+data/oxford-iiit-pet/images/boxer_129.jpg,Boxer,Boxer,0.26101908,True
+data/oxford-iiit-pet/images/boxer_69.jpg,Boxer,Boxer,0.4220894,True
+data/oxford-iiit-pet/images/basset_hound_178.jpg,Basset Hound,Basset Hound,0.4612427,True
+data/oxford-iiit-pet/images/Bengal_67.jpg,Bengal,Basset Hound,0.23759936,False
+data/oxford-iiit-pet/images/Russian_Blue_176.jpg,Russian Blue,Bengal,0.47539067,False
+data/oxford-iiit-pet/images/Egyptian_Mau_7.jpg,Egyptian Mau,Egyptian Mau,0.6817296,True
+data/oxford-iiit-pet/images/British_Shorthair_27.jpg,British Shorthair,Russian Blue,0.587241,False
+data/oxford-iiit-pet/images/boxer_91.jpg,Boxer,Boxer,0.2591144,True
+data/oxford-iiit-pet/images/pug_65.jpg,Pug,Pug,0.4833738,True
+data/oxford-iiit-pet/images/shiba_inu_147.jpg,Shiba Inu,Shiba Inu,0.44143292,True
+data/oxford-iiit-pet/images/Egyptian_Mau_148.jpg,Egyptian Mau,Bengal,0.2687936,False
+data/oxford-iiit-pet/images/shiba_inu_88.jpg,Shiba Inu,Beagle,0.33358157,False
+data/oxford-iiit-pet/images/boxer_55.jpg,Boxer,Beagle,0.4176769,False
+data/oxford-iiit-pet/images/Russian_Blue_193.jpg,Russian Blue,Russian Blue,0.5976189,True
+data/oxford-iiit-pet/images/Persian_115.jpg,Persian,Persian,0.808541,True
+data/oxford-iiit-pet/images/Russian_Blue_157.jpg,Russian Blue,Russian Blue,0.3439357,True
+data/oxford-iiit-pet/images/boxer_184.jpg,Boxer,British Shorthair,0.5079352,False
+data/oxford-iiit-pet/images/British_Shorthair_85.jpg,British Shorthair,Persian,0.87391084,False
+data/oxford-iiit-pet/images/British_Shorthair_200.jpg,British Shorthair,British Shorthair,0.4988093,True
+data/oxford-iiit-pet/images/shiba_inu_153.jpg,Shiba Inu,Beagle,0.454,False
+data/oxford-iiit-pet/images/boxer_103.jpg,Boxer,Bengal,0.3019446,False
+data/oxford-iiit-pet/images/Bengal_61.jpg,Bengal,Bengal,0.9993049,True
+data/oxford-iiit-pet/images/Persian_55.jpg,Persian,Persian,0.64703745,True
+data/oxford-iiit-pet/images/Bengal_36.jpg,Bengal,Bengal,0.9900524,True
+data/oxford-iiit-pet/images/Persian_107.jpg,Persian,Persian,0.63727885,True
+data/oxford-iiit-pet/images/British_Shorthair_276.jpg,British Shorthair,British Shorthair,0.4830845,True
+data/oxford-iiit-pet/images/boxer_112.jpg,Boxer,Bengal,0.3964615,False
+data/oxford-iiit-pet/images/shiba_inu_23.jpg,Shiba Inu,British Shorthair,0.3778511,False

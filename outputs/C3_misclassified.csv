@@ -1,0 +1,9 @@
+no,file,ground_truth,prediksi,confidence,prediksi_ke2,prob_ke2,hipotesis
+1,Bengal_166.jpg,Bengal,Egyptian Mau,0.9788,Bengal,0.0152,
+2,Russian_Blue_176.jpg,Russian Blue,British Shorthair,0.7993,Russian Blue,0.2005,
+3,Russian_Blue_29.jpg,Russian Blue,British Shorthair,0.7767,Russian Blue,0.2225,
+4,Egyptian_Mau_63.jpg,Egyptian Mau,Bengal,0.7695,Egyptian Mau,0.2302,
+5,British_Shorthair_168.jpg,British Shorthair,Russian Blue,0.7505,British Shorthair,0.2494,
+6,Egyptian_Mau_101.jpg,Egyptian Mau,Bengal,0.749,Egyptian Mau,0.1967,
+7,British_Shorthair_34.jpg,British Shorthair,Russian Blue,0.7172,British Shorthair,0.2459,
+8,Bengal_184.jpg,Bengal,Egyptian Mau,0.7072,Bengal,0.2914,
